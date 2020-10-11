@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d7a9821d1c4d6a26612838dea5d447b",
+    "revision": "fb39e38c8e55e096f7c81015575d37ec",
     "url": "/Hand-written-number-recognition/index.html"
   },
   {
