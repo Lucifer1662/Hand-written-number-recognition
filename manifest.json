@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Draw Digit Recognition",
+  "name": "Draw a digits and see how the neural net \"thinks\" about what it is",
   "icons": [
     {
       "src": "logo.svg",
