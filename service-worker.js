@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Hand-written-number-recognition/precache-manifest.ffc841a5c1709124106eb71d98110c18.js"
+  "/Hand-written-number-recognition/precache-manifest.bddfcbf791aea74605db9bf5632d282b.js"
 );
 
 self.addEventListener('message', (event) => {

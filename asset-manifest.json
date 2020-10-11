@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Hand-written-number-recognition/static/css/main.523f09c5.chunk.css",
-    "main.js": "/Hand-written-number-recognition/static/js/main.3048b05c.chunk.js",
-    "main.js.map": "/Hand-written-number-recognition/static/js/main.3048b05c.chunk.js.map",
+    "main.js": "/Hand-written-number-recognition/static/js/main.9a1e6671.chunk.js",
+    "main.js.map": "/Hand-written-number-recognition/static/js/main.9a1e6671.chunk.js.map",
     "runtime-main.js": "/Hand-written-number-recognition/static/js/runtime-main.8c62073b.js",
     "runtime-main.js.map": "/Hand-written-number-recognition/static/js/runtime-main.8c62073b.js.map",
     "static/js/2.7b155414.chunk.js": "/Hand-written-number-recognition/static/js/2.7b155414.chunk.js",
     "static/js/2.7b155414.chunk.js.map": "/Hand-written-number-recognition/static/js/2.7b155414.chunk.js.map",
     "index.html": "/Hand-written-number-recognition/index.html",
-    "precache-manifest.ffc841a5c1709124106eb71d98110c18.js": "/Hand-written-number-recognition/precache-manifest.ffc841a5c1709124106eb71d98110c18.js",
+    "precache-manifest.bddfcbf791aea74605db9bf5632d282b.js": "/Hand-written-number-recognition/precache-manifest.bddfcbf791aea74605db9bf5632d282b.js",
     "service-worker.js": "/Hand-written-number-recognition/service-worker.js",
     "static/css/main.523f09c5.chunk.css.map": "/Hand-written-number-recognition/static/css/main.523f09c5.chunk.css.map",
     "static/js/2.7b155414.chunk.js.LICENSE.txt": "/Hand-written-number-recognition/static/js/2.7b155414.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8c62073b.js",
     "static/js/2.7b155414.chunk.js",
     "static/css/main.523f09c5.chunk.css",
-    "static/js/main.3048b05c.chunk.js"
+    "static/js/main.9a1e6671.chunk.js"
   ]
 }
