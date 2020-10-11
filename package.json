@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@tensorflow/tfjs": "^2.6.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
@@ -11,15 +13,19 @@
     "@types/react": "^16.9.51",
     "@types/react-dom": "^16.9.8",
     "react": "^16.13.1",
+    "react-canvas-draw": "^1.1.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
+    "ts-node": "^9.0.0",
     "typescript": "^3.7.5"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "test-ai": "ts-node --transpile-only --project tsconfigTFNode.json src/test.ts",
+    "train-ai": "ts-node --transpile-only --project tsconfigTFNode.json src/train.ts"
   },
   "eslintConfig": {
     "extends": "react-app"
