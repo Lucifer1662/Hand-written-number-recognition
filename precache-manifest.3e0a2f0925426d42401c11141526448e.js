@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f127190a478ad2142b48bfbebff1c92",
+    "revision": "156909516c5ab30f674ac2e5ede33717",
     "url": "/Hand-written-number-recognition/index.html"
   },
   {
-    "revision": "9e6ff8211daf00514305",
-    "url": "/Hand-written-number-recognition/static/css/main.523f09c5.chunk.css"
+    "revision": "cfb1744f70a8eac18922",
+    "url": "/Hand-written-number-recognition/static/css/main.e80a8824.chunk.css"
   },
   {
     "revision": "bb08a2e3b084509505e3",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Hand-written-number-recognition/static/js/2.e428cc48.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e6ff8211daf00514305",
-    "url": "/Hand-written-number-recognition/static/js/main.2da9700f.chunk.js"
+    "revision": "cfb1744f70a8eac18922",
+    "url": "/Hand-written-number-recognition/static/js/main.4831cb27.chunk.js"
   },
   {
     "revision": "2938a81fbc1637e9bdd9",
