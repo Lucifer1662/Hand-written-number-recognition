@@ -1,0 +1,9 @@
+{
+    "name": "Hand Written Number Recognition",
+    "description": "A website that can recognise handwritten digits. This uses tensflow.js linear algebra library, but the model and the training (back propagation) was hand coded.",
+    "images": [
+      {
+       "path": "3.png",
+      }
+   ]
+}
