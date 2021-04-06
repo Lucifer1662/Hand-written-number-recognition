@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.fb786f68.chunk.js",
-    "main.js.map": "/static/js/main.fb786f68.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.207056cf.js",
-    "runtime-main.js.map": "/static/js/runtime-main.207056cf.js.map",
-    "static/js/2.8e0b4ec4.chunk.js": "/static/js/2.8e0b4ec4.chunk.js",
-    "static/js/2.8e0b4ec4.chunk.js.map": "/static/js/2.8e0b4ec4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8a9ec381b3600edac195b0c941982dff.js": "/precache-manifest.8a9ec381b3600edac195b0c941982dff.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.8e0b4ec4.chunk.js.LICENSE.txt": "/static/js/2.8e0b4ec4.chunk.js.LICENSE.txt"
+    "main.css": "/Hand-written-number-recognition/static/css/main.e80a8824.chunk.css",
+    "main.js": "/Hand-written-number-recognition/static/js/main.4831cb27.chunk.js",
+    "main.js.map": "/Hand-written-number-recognition/static/js/main.4831cb27.chunk.js.map",
+    "runtime-main.js": "/Hand-written-number-recognition/static/js/runtime-main.8c62073b.js",
+    "runtime-main.js.map": "/Hand-written-number-recognition/static/js/runtime-main.8c62073b.js.map",
+    "static/js/2.e428cc48.chunk.js": "/Hand-written-number-recognition/static/js/2.e428cc48.chunk.js",
+    "static/js/2.e428cc48.chunk.js.map": "/Hand-written-number-recognition/static/js/2.e428cc48.chunk.js.map",
+    "index.html": "/Hand-written-number-recognition/index.html",
+    "precache-manifest.3e0a2f0925426d42401c11141526448e.js": "/Hand-written-number-recognition/precache-manifest.3e0a2f0925426d42401c11141526448e.js",
+    "service-worker.js": "/Hand-written-number-recognition/service-worker.js",
+    "static/css/main.e80a8824.chunk.css.map": "/Hand-written-number-recognition/static/css/main.e80a8824.chunk.css.map",
+    "static/js/2.e428cc48.chunk.js.LICENSE.txt": "/Hand-written-number-recognition/static/js/2.e428cc48.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.207056cf.js",
-    "static/js/2.8e0b4ec4.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.fb786f68.chunk.js"
+    "static/js/runtime-main.8c62073b.js",
+    "static/js/2.e428cc48.chunk.js",
+    "static/css/main.e80a8824.chunk.css",
+    "static/js/main.4831cb27.chunk.js"
   ]
 }
